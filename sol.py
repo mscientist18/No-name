@@ -1,14 +1,6 @@
 
 import math
-import os
-import random
-import re
-import sys
-
-
-
-
-
+import o
 done=None
 rows=0
 cols=0
