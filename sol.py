@@ -1,5 +1,3 @@
-
-import math
 done=None
 rows=0
 cols=0
