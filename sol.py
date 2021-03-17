@@ -1,6 +1,5 @@
 
 import math
-import o
 done=None
 rows=0
 cols=0
